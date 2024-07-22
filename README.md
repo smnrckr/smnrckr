@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Semanur Çakır</h1>
-<h3 align="center">3rd Year Computer Engineering Student at Istanbul University - Cerrahpasa</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 🌱 I'm a fourth-year Computer Engineering student at Istanbul University-Cerrahpaşa, co-founder and board member of the university's Artificial Intelligence Club. Currently, I am interested in the field of IoT and focused on embedded software development. My goal is to create innovative IoT projects by combining Embedded Software with Artificial Intelligence.**
 <br></br>
